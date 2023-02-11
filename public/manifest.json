@@ -1,0 +1,12 @@
+{
+  "name": "Carbon emission",
+  "version": "1.0.0",
+  "description": "calculating the carbon emission",
+  "manifest_version": 3,
+  "author": "Sampurna Chapagain",
+  "action":{
+      "default_icon":"icon.png",
+      "default_popup": "index.html",
+      "default_title": "carbon emission"
+  }
+}
